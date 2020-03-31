@@ -1,0 +1,23 @@
+{
+    "name": "Nnoel/ContactForm",
+    "description": "This contact will alert Admin for every form submission and save inquiries to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Norcius Noel",
+            "email": "nnoel@fas.harvard.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+
+    "autoload": {
+        "psr-4": {
+            "Nnoel\\ContactForm\\": "src/"
+        }
+    }
+
+}
+
