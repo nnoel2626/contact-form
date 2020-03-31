@@ -1,5 +1,5 @@
 {
-    "name": "Nnoel/contact-form",
+    "name": "nnoel/contact-form",
     "description": "This contact will alert Admin for every form submission and save inquiries to database",
     "type": "library",
     "license": "MIT",
