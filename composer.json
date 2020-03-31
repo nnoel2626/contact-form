@@ -1,5 +1,5 @@
 {
-    "name": "Nnoel/ContactForm",
+    "name": "Nnoel/contact-form",
     "description": "This contact will alert Admin for every form submission and save inquiries to database",
     "type": "library",
     "license": "MIT",
@@ -11,13 +11,9 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-
-
     "autoload": {
         "psr-4": {
             "Nnoel\\ContactForm\\": "src/"
         }
     }
-
 }
-
